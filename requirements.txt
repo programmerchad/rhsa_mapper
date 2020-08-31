@@ -1,0 +1,4 @@
+beautifulsoup4==4.9.1
+click==7.1.2
+requests==2.24.0
+click-option-group==0.5.1
