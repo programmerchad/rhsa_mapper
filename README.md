@@ -21,7 +21,7 @@ Features:
 
 ## Prerequisites
 
-If you plan to use the `advisory_search` command, you will need to have an [OVAL file](https://www.redhat.com/security/data/oval/v2) saved and extracted locally.
+If you plan to use the `advisory search` command, you will need to have an [OVAL file](https://www.redhat.com/security/data/oval/v2) saved and extracted locally.
 
 <!-- USAGE EXAMPLES -->
 ## Installation and General Use
